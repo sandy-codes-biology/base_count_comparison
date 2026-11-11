@@ -1,16 +1,16 @@
-# base_count_comparison
+# Base Count Comparison
 
 Compares the A, T, C and G base counts of two DNA sequences from FASTA files and draws a side-by-side bar chart.
 
-## What it does
+## What does it do?
 
-1. Reads two FASTA files
-2. Counts the A, T, C and G bases in each sequence
-3. Plots the counts as a grouped bar chart
+1. Reads two FASTA files 📖
+2. Counts the A, T, C and G bases in each sequence 🧮
+3. Plots the counts as a grouped bar chart 📊
 
-The example compares human insulin (NM_000207) and haemoglobin beta (NM_000518) mRNA sequences from NCBI.
+The example compares human insulin (NM_000207) and haemoglobin beta (NM_000518) mRNA sequences from NCBI!
 
-## How to use it
+## How to use it?
 
 1. Install matplotlib: `pip install matplotlib`
 2. Put your two FASTA files in the same folder as the notebook
@@ -21,4 +21,4 @@ The example compares human insulin (NM_000207) and haemoglobin beta (NM_000518) 
 
 The chart shows raw counts, so a longer sequence will have taller bars simply because it has more bases.
 
-*A beginner project made while learning Python and bioinformatics.*
+*This was a beginner project made while learning Python and bioinformatics.*
