@@ -24,4 +24,4 @@ The example compares human insulin (NM_000207) and haemoglobin beta (NM_000518) 
 
 The chart shows raw counts, so a longer sequence will have taller bars simply because it has more bases.
 
-*This was a beginner project made while learning Python and bioinformatics.*
+*This was a beginner project made while learning Python and bioinformatics. The code comments are my own notes to help me understand certain step.*
