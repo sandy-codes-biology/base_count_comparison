@@ -8,6 +8,9 @@ Compares the A, T, C and G base counts of two DNA sequences from FASTA files and
 2. Counts the A, T, C and G bases in each sequence 🧮
 3. Plots the counts as a grouped bar chart 📊
 
+<img width="640" height="480" alt="Exemplar Chart" src="https://github.com/user-attachments/assets/c5296431-8de5-4300-ab68-224b7a04553b" />
+
+
 The example compares human insulin (NM_000207) and haemoglobin beta (NM_000518) mRNA sequences from NCBI!
 
 ## How to use it?
